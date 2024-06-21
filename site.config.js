@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Gweek",
+    name: "Steven",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Cloud Computering Team",
-    bio: "fake it till you make it",
+    role: "钵钵鸡",
+    bio: "一元一串的钵钵鸡",
     email: "soslane@proton.me",
     linkedin: "",
     github: "",
@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Gweek Blog`,
+      name: `Steven Blog`,
       href: "https://github.com/soslane/notionblog",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Gweek",
-    description: "welcome to Gweek !",
+    title: "Steven",
+    description: "welcome to my blog !",
     scheme: "light", // 'light' | 'dark' | 'system'
   },
 
