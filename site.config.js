@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "一元一串的钵钵鸡",
     email: "soslane@proton.me",
     linkedin: "",
-    github: "",
+    github: "soslane",
     instagram: "",
   },
   projects: [
