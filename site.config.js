@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Steven Blog`,
+      name: `STEVENBLOG`,
       href: "https://www.notion.so",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Steven Blog",
+    title: "STEVEN",
     description: "welcome to my blog !",
     scheme: "light", // 'light' | 'dark' | 'system'
   },
